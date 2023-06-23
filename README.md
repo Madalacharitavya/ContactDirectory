@@ -8,6 +8,8 @@ Delete _all (): It deletes all the contacts from the Contacts directory.
 display_ all (): It displays all the contacts from the Contacts directory.
 Search _existing (): It will search and display an existing contact in the Contacts directory.
 Thanks ():
+
+
 ![Screenshot (218)](https://github.com/Madalacharitavya/ContactDirectory/assets/102969979/a4f17535-ac1e-4601-9999-d21c8c1c8ef3)
 ![Screenshot (219)](https://github.com/Madalacharitavya/ContactDirectory/assets/102969979/234a986b-d67d-4e5f-b08c-4327657e02af)
 
