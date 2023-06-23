@@ -6,8 +6,7 @@ Add _contact (): It adds a new contact to the Contacts directory.
 Remove _existing (): It removes an existing contact from the Contacts directory.
 Delete _all (): It deletes all the contacts from the Contacts directory.
 display_ all (): It displays all the contacts from the Contacts directory.
-Search _existing (): It will search and display an existing contact in the Contacts directory.
-Thanks ():
+Search _existing (): It will search and display an existing contact in the Contacts directory.  Thanks ():
 
 
 ![Screenshot (218)](https://github.com/Madalacharitavya/ContactDirectory/assets/102969979/a4f17535-ac1e-4601-9999-d21c8c1c8ef3)
