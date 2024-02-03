@@ -18,4 +18,10 @@ Search _existing (): It will search and display an existing contact in the Conta
 ![Screenshot (224)](https://github.com/Madalacharitavya/ContactDirectory/assets/102969979/b5a1dded-0bd5-4b62-a116-d2d63148c7ff)
 ![Screenshot (225)](https://github.com/Madalacharitavya/ContactDirectory/assets/102969979/b490663a-3189-4ecd-892c-1051ed1aa9e3)
 
+## Contributing
 
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
